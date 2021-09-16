@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/create_PlayList"
+
+        android:title="delete"
+
+        android:icon="@drawable/ic_create_playlist"
+
+
+
+        app:showAsAction="always"
+
+
+
+        />
+
+
+    <item
+        android:id="@+id/menu_file_selected_delet"
+
+        android:title="delete"
+
+        android:icon="@drawable/ic_delete"
+
+        app:showAsAction="always"
+
+
+
+        />
+
+
+
+    <item
+        android:id="@+id/menu_file_selected_selectAll"
+
+        android:title="selectAll"
+        android:icon="@drawable/ic_select_all"
+
+        app:showAsAction="always"/>
+
+
+</menu>

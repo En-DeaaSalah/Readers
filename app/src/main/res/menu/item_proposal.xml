@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/delete_file_proposal"
+        android:title="Delete Proposal"/>
+    <item
+        android:id="@+id/save_later_file_proposal"
+        android:title="Save to list for later"/>
+    <item
+        android:id="@+id/share_file_proposal"
+        android:title="Share"/>
+</menu>

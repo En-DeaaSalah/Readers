@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Readers</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Library</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome">Welcome</string>
+    <string name="passwrod">Passwrod</string>
+    <string name="email">Email</string>
+    <string name="login">login</string>
+    <string name="title_subscriptions">Subscriptions</string>
+    <string name="up_nest">Up next</string>
+    <string name="comments">Comments 15</string>
+    <string name="add_comment">Add a public comment...</string>
+    <string name="history">History</string>
+    <string name="your_channel">Your Channel</string>
+    <string name="setting">Setting</string>
+    <string name="watch_later">Watch later</string>
+    <string name="upload_file">Upload file</string>
+    <string name="recent">Recent</string>
+    <string name="search">Search</string>
+    <string name="replies">Replies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_label">Home</string>
+    <string name="files_label">Files</string>
+    <string name="play_list_label">playList</string>
+    <string name="channels_label">Channels</string>
+    <string name="about_label">about</string>
+    <string name="network_falure_message">No internet </string>
+
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="android:layoutDirection">ltr</item>
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="ProgressBarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+
+    <style name="ViewTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layoutDirection">ltr</item>
+        <item name="colorPrimaryDark">@color/dark</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="account_activity_style" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="android:layoutDirection">ltr</item>
+        <item name="colorPrimary">@android:color/holo_purple</item>
+        <item name="colorPrimaryDark">@android:color/holo_purple</item>
+        <item name="colorAccent">@android:color/holo_purple</item>
+    </style>
+
+<style name="edit_text_style" parent="Theme.AppCompat">
+    <item name="colorPrimary">#3D5AFE</item>
+    <item name="colorPrimaryDark">#2979FF</item>
+    <item name="colorAccent">#2979FF</item>
+
+
+</style>
+
+
+
+
+
+
+
+
+</resources>

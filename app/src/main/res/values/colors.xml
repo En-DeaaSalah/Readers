@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#720d5d</color>
+    <color name="colorPrimaryDark">#430033</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="black">#3A3636</color>
+    <color name="dark">#000000</color>
+    <color name="less_dark">#101010</color>
+    <color name="withe">#FFFFFF</color>
+
+    <color name="background_comment">#E3E3E3</color>
+
+    <color name="default_text">#808080</color>
+    <color name="red_text">#D81919</color>
+    <color name="white">#FFFF</color>
+</resources>
