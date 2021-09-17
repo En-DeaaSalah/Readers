@@ -1,5 +1,5 @@
 # About Readers app
-The Reader application is a platform that works on sharing e-books among its users in a contemporary style and provides its users with a unique and wide set of features to make the user live a completely new experience in the field of communication applications of this type.
+The Reader application is a platform that works on sharing e-books among its users in a contemporary style and provides its users with a unique and wide set of features to make the user live a completely new experience in the field of communication applications of this type.<br><br>
 <img src="app\src\main\res\drawable-v24\logo.png" style="border-radius:20px;width:200px;margin:30px 30%">
 
 # App Features
